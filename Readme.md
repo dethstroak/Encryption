@@ -1,0 +1,1 @@
+This was a for fun project I did a couple nights while doing homework. This turns a string into an ArrayList, randomizes them by an amount, embeds an extra character why is the decyption key on the end, and then the second program works backwards and decrypts each character.
